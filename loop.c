@@ -72,8 +72,6 @@
 #include <tgl/tgl-timers.h>
 #include <tgl/tgl-queries.h>
 
-#include <openssl/sha.h>
-
 int verbosity;
 extern int readline_disabled;
 extern char *bot_hash;
